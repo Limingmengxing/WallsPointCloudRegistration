@@ -1,0 +1,10 @@
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\bin\Release\2020プログラム.exe.config
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\bin\Release\2020プログラム.exe
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\bin\Release\2020プログラム.pdb
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\obj\Release\2020プログラム.csprojAssemblyReference.cache
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\obj\Release\_2020プログラム.Form1.resources
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\obj\Release\_2020プログラム.Properties.Resources.resources
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\obj\Release\2020プログラム.csproj.GenerateResource.cache
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\obj\Release\2020プログラム.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\obj\Release\2020プログラム.exe
+C:\Users\zhang\source\repos\2020プログラム\2020プログラム\obj\Release\2020プログラム.pdb
